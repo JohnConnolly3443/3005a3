@@ -2,4 +2,8 @@
 a3 for 3005
 
 create database
-query the script
+query the a3script.sql file
+
+go to commandline / whatever python interpreter u want
+run program
+
